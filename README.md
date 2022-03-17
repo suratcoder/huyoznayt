@@ -1,2 +1,0 @@
-# huyoznayt
-surat coder
