@@ -1,0 +1,284 @@
+
+
+.index {
+    position: relative;
+    width: 800px;
+    height: 800px;
+    top: 50px;
+    left: 50px;
+    border: 50px solid ;
+    border-color: rgb(238, 144, 2);
+    border-radius: 40px;
+    background-color: hsl(44, 70%, 60%);
+}
+.index div{
+    position:absolute;
+    background-color: black;
+
+}
+
+.odin  {
+    width: 100px;
+    height: 100px;
+    top: 0px ;
+    left: 0px ;
+    
+ 
+}
+.dva {
+    
+    width: 100px;
+    height: 100px;
+    top: 0px ;
+    left: 200px ;
+    
+     
+
+}
+.tri {
+    width: 100px;
+    height: 100px;
+    top: 0px ;
+    left: 400px ;
+
+     
+}
+.cetiri {
+    width: 100px;
+    height: 100px;
+    top: 0px ;
+    left: 600px ;
+     
+     
+}
+.piyat {
+    width: 100px;
+    height: 100px;
+    top: 100px ;
+    left: 100px ;
+     
+     
+}
+.shest {
+    width: 100px;
+    height: 100px;
+    top: 100px ;
+    left: 300px ;
+     
+     
+}
+.sem {
+    width: 100px;
+    height: 100px;
+    top: 100px ;
+    left: 500px ;
+     
+     
+}
+.vosem {
+    width: 100px;
+    height: 100px;
+    top: 100px ;
+    left: 700px ;
+     
+     
+}
+.devat {
+    width: 100px;
+    height: 100px;
+    top: 200px ;
+    left: 0px ;
+     
+     
+}
+.desyat {
+    width: 100px;
+    height: 100px;
+    top: 200px ;
+    left: 200px ;
+     
+     
+}
+.odinnatsat   {
+    width: 100px;
+    height: 100px;
+    top: 200px ;
+    left: 400px ;
+     
+    
+     
+     
+}
+.dvenatsat {
+    width: 100px;
+    height: 100px;
+    top: 200px ;
+    left: 600px ;
+     
+     
+     
+}
+.trinadsat {
+    width: 100px;
+    height: 100px;
+    top: 300px ;
+    left: 100px ;
+     
+     
+     
+}
+.cetirnadsat {
+    width: 100px;
+    height: 100px;
+    top: 300px ;
+    left: 300px ;
+     
+     
+}
+.pyatnadsat {
+    width: 100px;
+    height: 100px;
+    top: 300px ;
+    left: 500px ;
+     
+     
+}
+.shestnadsat {
+    width: 100px;
+    height: 100px;
+    top: 300px ;
+    left: 700px ;
+     
+     
+}
+.semnadsat {
+    width: 100px;
+    height: 100px;
+    top: 400px ;
+    left: 0px ;
+     
+     
+}
+.vosemnadsat{
+    width: 100px;
+    height: 100px;
+    top: 400px ;
+    left: 200px ;
+     
+     
+} 
+.devaytnadsat {
+    width: 100px;
+    height: 100px;
+    top: 400px ;
+    left: 400px ;
+     
+     
+}
+.dvadsat {
+    width: 100px;
+    height: 100px;
+    top: 400px ;
+    left: 600px ;
+     
+     
+}
+.dvatsatodin {
+    width: 100px;
+    height: 100px;
+    top: 500px ;
+    left: 100px ;
+     
+     
+}
+.dvatsatdva {
+    width: 100px;
+    height: 100px;
+    top: 500px ;
+    left: 300px ;
+     
+     
+}
+.dvatsattri {
+    width: 100px;
+    height: 100px;
+    top: 500px ;
+    left: 500px ;
+     
+     
+}
+.dvadsatcetiri {
+    width: 100px;
+    height: 100px;
+    top: 500px ;
+    left: 700px ;
+     
+     
+}
+.dvadsatpyat {
+    width: 100px;
+    height: 100px;
+    top: 600px ;
+    left: 0px ;
+     
+     
+}
+.dvadshest {
+    width: 100px;
+    height: 100px;
+    top: 600px ;
+    left: 200px ;
+     
+     
+}    
+.dvadsatsem {
+    width: 100px;
+    height: 100px;
+    top: 600px ;
+    left: 400px ;
+     
+     
+     
+}
+.dvadsatvosem {
+    width: 100px;
+    height: 100px;
+    top: 600px ;
+    left: 600px ;
+     
+     
+     
+}
+.dvadsatdevat {
+    width: 100px;
+    height: 100px;
+    top: 700px ;
+    left: 100px ;
+     
+     
+     
+}
+.tridsat {
+    width: 100px;
+    height: 100px;
+    top: 700px ;
+    left: 300px ;
+     
+     
+}
+.tridsatodin {
+    width: 100px;
+    height: 100px;
+    top: 700px ;
+    left: 500px ;
+     
+     
+}
+.tridsatdva {
+    width: 100px;
+    height: 100px;
+    top: 700px ;
+    left: 700px ;
+     
+     
+}
